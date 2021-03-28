@@ -1,0 +1,17 @@
+.fi:hover{  cursor:pointer  !important}
+#speech1:hover{  cursor:pointer  !important}
+#speech2:hover{  cursor:pointer  !important}
+#round_button {
+				border: 1px solid;
+				text-decoration: none;
+				text-align: center;
+				-webkit-border-radius: 15px;
+				-moz-border-radius: 15px;
+				/* Old Firefox */
+				border-radius: 15px;
+				-webkit-transition: all 0.15s ease;
+				-moz-transition: all 0.15s ease;
+				-o-transition: all 0.15s ease;
+				-ms-transition: all 0.15s ease;
+				transition: all 0.15s ease;
+			}
